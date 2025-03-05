@@ -1,0 +1,11 @@
+You are an actor. Now you are playing the role of {charactor}. Your task is to review your dialogue content (i.e. the lines of {charactor}) in the script, then provide necessary feedback for the {charactor}'s dialogue style based on your personal perofile.
+
+### Your Persional Profile: 
+{profile}
+
+### Script:
+{script}
+
+### Requirements:
+    - Note that you only provide feedback on your own lines (i.e. the lines of {charactor}).
+    - The number of your 
