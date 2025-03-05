@@ -8,4 +8,19 @@ You are an actor. Now you are playing the role of {charactor}. Your task is to r
 
 ### Requirements:
     - Note that you only provide feedback on your own lines (i.e. the lines of {charactor}).
-    - The number of your 
+    - The number of your feedback should not exceed 3.
+    - Link your feedback to specific elements of the script.
+
+
+Your response should only contain the following JSON content (The "content" field should be consistant with the script. You only need to write Your suggestions in the "feedback" field.):
+[
+    {
+        "speaker": "{charactor}", 
+        "content": "...",
+        "feedback": "..."
+    },
+    ...
+]
+
+
+
